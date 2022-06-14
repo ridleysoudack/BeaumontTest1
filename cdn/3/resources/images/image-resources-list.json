@@ -1,0 +1,30 @@
+{
+  "1654605612745": {
+    "originalName": "Logo2.png",
+    "fileName": "1654605612745.png",
+    "size": 5201,
+    "url": "${appResourceUrl}/images/widget_22/1654605612745.png",
+    "created": 1654605612745,
+    "resourcesPrefix": "images/widget_22",
+    "referedIds": [],
+    "originId": "1654605612745",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 690,
+    "originalHeight": 110
+  },
+  "1654605878679": {
+    "originalName": "Logo1.png",
+    "fileName": "1654605878679.png",
+    "size": 5400,
+    "url": "${appResourceUrl}/images/widget_22/1654605878679.png",
+    "created": 1654605878679,
+    "resourcesPrefix": "images/widget_22",
+    "referedIds": [],
+    "originId": "1654605878679",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 566,
+    "originalHeight": 227
+  }
+}
